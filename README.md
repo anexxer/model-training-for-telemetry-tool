@@ -1,6 +1,6 @@
-# Hex20 Model Training Tool
+# Model Training Tool
 
-This repository contains the standalone scripts used to generate synthetic telemetry data and train the AI models for the **Hex20 Satellite Dashboard** project.
+This repository contains the standalone scripts used to generate synthetic telemetry data and train the AI models for the **Satelite Nightly Test Tool** project.
 
 ## Purpose
 
@@ -48,7 +48,7 @@ Output:
 
 ## Integration with Satellite Tool
 
-To use these new models in the main **Hex20 Satellite Dashboard**:
+To use these new models in the main **Satelite Nightly Test Tool**:
 1.  Copy the contents of the `model/` folder generated here.
 2.  Paste them into `satelite nightly test tool/backend/model/`, overwriting the existing files.
 3.  Restart the backend server.
