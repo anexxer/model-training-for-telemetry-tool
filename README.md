@@ -1,4 +1,4 @@
-# Model Training Tool
+# Model Training 
 
 This repository contains the standalone scripts used to generate synthetic telemetry data and train the AI models for the **Satelite Nightly Test Tool** project.
 
